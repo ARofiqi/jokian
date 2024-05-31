@@ -1,0 +1,8 @@
+John Doe,2023123456,85,B,Lulus
+Jane Smith,2023123457,80,B,Lulus
+Alice Johnson,2023123458,81,B,Lulus
+Bob Brown,2023123459,86,B,Lulus
+John Doe,2023123456,85,B,Lulus
+Jane Smith,2023123457,80,B,Lulus
+Alice Johnson,2023123458,80,B,Lulus
+Bob Brown,2023123459,88,B,Lulus
