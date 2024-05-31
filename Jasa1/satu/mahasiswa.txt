@@ -1,4 +1,0 @@
-John Doe,2023123456,85,B,Lulus
-Jane Smith,2023123457,75,C,Lulus ala kadarnya
-Alice Johnson,2023123458,45,D,Perlu Diperbaiki
-Bob Brown,2023123459,35,E,Tidak Lulus
